@@ -1,5 +1,3 @@
-#make a program that asks the user for a list of things to do, then asks how many hours they want to work for the day and divide the time evenly amongst the tasks.
-#then it should print out the list of things to do, then the number of hours they should work on each thing.
 import time
 import datetime
 import os
